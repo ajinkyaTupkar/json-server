@@ -1,4 +1,4 @@
-"posts": [
+{"posts": [
     {
       "id": 1,
       "title": "Post 1"
@@ -14,3 +14,4 @@
   "profile": {
     "name": "ajinkya"
   }
+}
